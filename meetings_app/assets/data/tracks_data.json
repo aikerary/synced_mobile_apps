@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "nombre": "IA",
+      "eventos": [1, 4, 6, 10, 11, 13, 14, 18, 19, 21]
+    },
+    {
+      "nombre": "Exito",
+      "eventos": [2, 5, 8, 12, 15, 16, 22]
+    },
+    {
+      "nombre": "Tech",
+      "eventos": [3, 4, 7, 9, 20, 21, 23]
+    },
+    {
+      "nombre": "Innovacion",
+      "eventos": [17]
+    },
+    {
+      "nombre": "Negocios",
+      "eventos": [2, 5, 8, 15, 16, 22]
+    },
+    {
+      "nombre": "Futuro",
+      "eventos": [1, 4, 6, 10, 13, 17, 19]
+    },
+    {
+      "nombre": "Educacion",
+      "eventos": [7, 11, 20]
+    }
+  ]
+}

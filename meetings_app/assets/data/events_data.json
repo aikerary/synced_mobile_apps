@@ -1,0 +1,413 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "Explorando el Futuro de la IA",
+      "descripcion": "Charla introductoria sobre el impacto de la inteligencia artificial en diversas industrias.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dra. Mara Gonzlez",
+      "invitados_especiales": [
+        "Dr. Andres Meja",
+        "Ana Torres"
+      ],
+      "modalidad": "Presencial",
+      "lugar": "Salon G11",
+      "fecha": "2025-04-10",
+      "hora_inicio": "10:00",
+      "hora_fin": "11:30",
+      "max_participantes": 100,
+      "suscritos": 40,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Caso de exito: Transformacion Digital en PYMEs",
+      "descripcion": "Conferencia sobre como una empresa local adopto tecnologa para duplicar su crecimiento.",
+      "tema": "Casos de exito",
+      "ponente": "Ing. Carlos Prez",
+      "invitados_especiales": [
+        "Laura Quintero"
+      ],
+      "modalidad": "Hibrida",
+      "lugar": "Bloque B",
+      "plataforma": "Zoom",
+      "fecha": "2025-04-11",
+      "hora_inicio": "14:00",
+      "hora_fin": "15:30",
+      "max_participantes": 120,
+      "suscritos": 65,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Blockchain y su impacto en la seguridad de datos",
+      "descripcion": "Anlisis tcnico sobre como Blockchain puede cambiar la ciberseguridad.",
+      "tema": "Tecnologa",
+      "ponente": "MSc. Laura Fernndez",
+      "invitados_especiales": [
+        "Oscar Rivera",
+        "Felipe Arango"
+      ],
+      "modalidad": "Virtual",
+      "plataforma": "Google Meet",
+      "fecha": "2025-04-12",
+      "hora_inicio": "09:00",
+      "hora_fin": "10:30",
+      "max_participantes": 80,
+      "suscritos": 50,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Machine Learning en la vida cotidiana",
+      "descripcion": "Desde recomendaciones de Netflix hasta asistentes personales: ML en accion.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Juan Rivas",
+      "invitados_especiales": [],
+      "modalidad": "Presencial",
+      "lugar": "Espacios Abiertos",
+      "fecha": "2025-04-12",
+      "hora_inicio": "11:00",
+      "hora_fin": "12:30",
+      "max_participantes": 150,
+      "suscritos": 90,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Caso de exito: App movil que revoluciono el turismo local",
+      "descripcion": "Testimonio de emprendedores que impactaron la economa con tecnologa.",
+      "tema": "Casos de exito",
+      "ponente": "Emprendedores Invita",
+      "invitados_especiales": [
+        "Daniela Mndez"
+      ],
+      "modalidad": "Hibrida",
+      "lugar": "Bloque M",
+      "plataforma": "Teams",
+      "fecha": "2025-04-13",
+      "hora_inicio": "13:00",
+      "hora_fin": "14:30",
+      "max_participantes": 90,
+      "suscritos": 55,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Retos ticos de la IA generativa",
+      "descripcion": "Debate sobre el uso tico de herramientas como ChatGPT, DALL·E y otras.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Esteban Quintero",
+      "invitados_especiales": [
+        "Natalia Ramrez",
+        "Fernando Gil"
+      ],
+      "modalidad": "Virtual",
+      "plataforma": "Zoom",
+      "fecha": "2025-04-14",
+      "hora_inicio": "15:00",
+      "hora_fin": "16:30",
+      "max_participantes": 110,
+      "suscritos": 70,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Tecnologas emergentes en educacion",
+      "descripcion": "Uso de Realidad Virtual, AR y plataformas de aprendizaje inteligente.",
+      "tema": "Tecnologa",
+      "ponente": "Lic. Carmen Vlez",
+      "invitados_especiales": [],
+      "modalidad": "Presencial",
+      "lugar": "Bloque A",
+      "fecha": "2025-04-15",
+      "hora_inicio": "10:00",
+      "hora_fin": "11:30",
+      "max_participantes": 130,
+      "suscritos": 85,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Caso de exito: Automatizacion en el agro",
+      "descripcion": "Un vistazo a como la tecnologa ayudo a mejorar el rendimiento agrcola.",
+      "tema": "Casos de exito",
+      "ponente": "Ing. Ricardo Moz",
+      "invitados_especiales": [
+        "Monica Londo"
+      ],
+      "modalidad": "Presencial",
+      "lugar": "Dunort 1985",
+      "fecha": "2025-04-16",
+      "hora_inicio": "09:30",
+      "hora_fin": "11:00",
+      "max_participantes": 100,
+      "suscritos": 60,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Tecnologa y sostenibilidad: Aliados o enemigos?",
+      "descripcion": "Charla crtica sobre el impacto ambiental de las nuevas tecnologas.",
+      "tema": "Tecnologa",
+      "ponente": "Dra. Juliana Ortega",
+      "invitados_especiales": [
+        "Camilo Herrera",
+        "Veronica Daz"
+      ],
+      "modalidad": "Hbrida",
+      "lugar": "Bloque E",
+      "plataforma": "Google Meet",
+      "fecha": "2025-04-17",
+      "hora_inicio": "11:30",
+      "hora_fin": "13:00",
+      "max_participantes": 140,
+      "suscritos": 75,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Desarrollo de software con IA asistida",
+      "descripcion": "Como utilizar herramientas de inteligencia artificial para acelerar el desarrollo.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dev Team Invitado",
+      "invitados_especiales": [],
+      "modalidad": "Virtual",
+      "plataforma": "Teams",
+      "fecha": "2025-04-18",
+      "hora_inicio": "14:30",
+      "hora_fin": "16:00",
+      "max_participantes": 95,
+      "suscritos": 50,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Tema Especial 11",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Tecnologa.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Lic. Hugo Torres",
+      "invitados_especiales": [],
+      "modalidad": "Hbrida",
+      "lugar": "Bloque M",
+      "plataforma": "Webex",
+      "fecha": "2025-05-02",
+      "hora_inicio": "14:00",
+      "hora_fin": "17:30",
+      "max_participantes": 120,
+      "suscritos": 65,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Tema Especial 12",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Casos de exito.",
+      "tema": "Tecnologa",
+      "ponente": "Dr. Elena Ruiz",
+      "invitados_especiales": [],
+      "modalidad": "Hbrida",
+      "lugar": "Bloque B",
+      "plataforma": "Zoom",
+      "fecha": "2025-05-03",
+      "hora_inicio": "13:00",
+      "hora_fin": "18:30",
+      "max_participantes": 100,
+      "suscritos": 50,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Tema Especial 13",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Inteligencia Artificial.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Elena Ruiz",
+      "invitados_especiales": [],
+      "modalidad": "Presencial",
+      "lugar": "Salon G12",
+      "fecha": "2025-05-04",
+      "hora_inicio": "13:00",
+      "hora_fin": "18:30",
+      "max_participantes": 110,
+      "suscritos": 55,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Tema Especial 14",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Ciberseguridad.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Elena Ruiz",
+      "invitados_especiales": [
+        "Luis Fernando Daz"
+      ],
+      "modalidad": "Hbrida",
+      "fecha": "2025-05-05",
+      "hora_inicio": "14:00",
+      "hora_fin": "17:30",
+      "lugar": "Bloque D",
+      "plataforma": "Google Meet",
+      "max_participantes": 130,
+      "suscritos": 70,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Tema Especial 15",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Casos de exito.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dra. Sofa Vargas",
+      "invitados_especiales": [],
+      "modalidad": "Virtual",
+      "fecha": "2025-05-06",
+      "hora_inicio": "12:00",
+      "hora_fin": "17:30",
+      "plataforma": "Teams",
+      "max_participantes": 100,
+      "suscritos": 60,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "Tema Especial 16",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Tecnologa.",
+      "tema": "Casos de exito",
+      "ponente": "Ing. Toms Herrera",
+      "invitados_especiales": [
+        "Luis Fernando Daz"
+      ],
+      "modalidad": "Presencial",
+      "fecha": "2025-05-07",
+      "hora_inicio": "10:00",
+      "hora_fin": "19:30",
+      "lugar": "Bloque A",
+      "max_participantes": 140,
+      "suscritos": 80,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "Tema Especial 17",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Ciberseguridad.",
+      "tema": "Innovacion",
+      "ponente": "Ing. Toms Herrera",
+      "invitados_especiales": [
+        "Camila Soto"
+      ],
+      "modalidad": "Virtual",
+      "fecha": "2025-05-08",
+      "hora_inicio": "15:00",
+      "hora_fin": "20:30",
+      "plataforma": "Teams",
+      "max_participantes": 120,
+      "suscritos": 70,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "Tema Especial 18",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Casos de exito.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "MSc. Andrea Lopez",
+      "invitados_especiales": [
+        "Mario Silva"
+      ],
+      "modalidad": "Virtual",
+      "fecha": "2025-05-09",
+      "hora_inicio": "08:00",
+      "hora_fin": "19:30",
+      "plataforma": "Webex",
+      "max_participantes": 110,
+      "suscritos": 55,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "Tema Especial 19",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Inteligencia Artificial.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Elena Ruiz",
+      "invitados_especiales": [],
+      "modalidad": "Presencial",
+      "lugar": "Salon G12",
+      "fecha": "2024-05-10",
+      "hora_inicio": "13:00",
+      "hora_fin": "20:30",
+      "max_participantes": 100,
+      "suscritos": 50,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "Tema Especial 20",
+      "descripcion": "Sesion enfocada en el anlisis y discusion de Innovacion.",
+      "tema": "Tecnologa",
+      "ponente": "Dr. Elena Ruiz",
+      "invitados_especiales": [
+        "Camila Soto"
+      ],
+      "modalidad": "Hbrida",
+      "fecha": "2024-05-11",
+      "hora_inicio": "08:00",
+      "hora_fin": "18:30",
+      "lugar": "Bloque E",
+      "plataforma": "Zoom",
+      "max_participantes": 130,
+      "suscritos": 75,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 21,
+      "titulo": "AI Insights",
+      "descripcion": "Resumen de las innovaciones en IA del mes anterior.",
+      "tema": "Inteligencia Artificial",
+      "ponente": "Dr. Ana Morales",
+      "invitados_especiales": [
+        "Dr. Luis Perez"
+      ],
+      "modalidad": "Presencial",
+      "lugar": "Salon G10",
+      "fecha": "2025-03-15",
+      "hora_inicio": "09:00",
+      "hora_fin": "10:30",
+      "max_participantes": 80,
+      "suscritos": 60,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "Digital Success",
+      "descripcion": "Análisis retroactivo sobre la transformación digital lograda en el último trimestre.",
+      "tema": "Casos de exito",
+      "ponente": "Ing. Marta Rios",
+      "invitados_especiales": [
+        "Carlos Ramirez"
+      ],
+      "modalidad": "Hibrida",
+      "lugar": "Bloque C",
+      "fecha": "2025-03-20",
+      "hora_inicio": "11:00",
+      "hora_fin": "12:30",
+      "max_participantes": 100,
+      "suscritos": 75,
+      "imageUrl": "assets/images/event.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": "Blockchain Forum",
+      "descripcion": "Foro de discusión sobre las tendencias y desafíos del blockchain.",
+      "tema": "Tecnologa",
+      "ponente": "MSc. Rafael Diaz",
+      "invitados_especiales": [
+        "Sofia Torres"
+      ],
+      "modalidad": "Virtual",
+      "plataforma": "Google Meet",
+      "fecha": "2025-03-25",
+      "hora_inicio": "14:00",
+      "hora_fin": "15:30",
+      "max_participantes": 90,
+      "suscritos": 65,
+      "imageUrl": "assets/images/event.jpg"
+    }
+  ]
+}
